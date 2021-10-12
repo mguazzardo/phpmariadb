@@ -1,0 +1,2 @@
+use test;
+INSERT INTO `users` VALUES (1,'Rodri','nolose','desa1@gmail.com',13,'caba','2021-10-12 00:05:16'),(2,'Marcelo','Guazzardo','mguazzardo76@gmail.com',45,'caba','2021-10-12 00:05:28'),(3,'Ana','nolose','nada@gmail.com',30,'cordoba','2021-10-12 00:05:45'),(4,'Facundo','nolose','ana@gmail.com',40,'Salta','2021-10-12 00:06:04'),(5,'Edu','Cr0w','desa1@gmail.com',40,'Comodoro Rivadavia','2021-10-12 00:06:28');
